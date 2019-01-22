@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: end;
+    background: grey;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.header a {
+    margin: 0 10px;
+}

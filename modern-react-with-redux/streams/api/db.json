@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "qwe",
+      "description": "asd",
+      "id": 1
+    },
+    {
+      "title": "Streaming reuse!",
+      "description": "Breaks the user id",
+      "id": 4
+    },
+    {
+      "title": "I created a streaeeam",
+      "description": "its so biutifuklllll",
+      "userId": "100986518806830199031",
+      "id": 5
+    }
+  ]
+}
